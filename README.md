@@ -29,3 +29,6 @@ This project allows you to clone websites (HTML, CSS, JS, Images, Fonts, Videos)
 ```powershell
 git clone https://github.com/mahdi67436/mahdi-site-cloner.git
 
+
+pip install -r requirements.txt
+
