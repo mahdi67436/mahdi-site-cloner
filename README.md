@@ -25,5 +25,5 @@ This project allows you to clone websites (HTML, CSS, JS, Images, Fonts, Videos)
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<username>/<repo_name>.git
+git clone [https://github.com/<username>/<repo_name>.git](https://github.com/mahdi67436/mahdi-site-cloner.git)
 cd <repo_name>
