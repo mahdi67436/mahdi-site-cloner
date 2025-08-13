@@ -3,9 +3,9 @@
 ![banner](https://img.shields.io/badge/Status-Active-brightgreen)
 ![python](https://img.shields.io/badge/Python-3.11-blue)
 
-**Python Selenium & Requests based full website cloner**
+**Python Selenium & Requests based full website cloner for Windows**
 
-This project allows you to clone websites (HTML, CSS, JS, Images, Fonts, Videos) using Python. It supports both static and dynamic (JavaScript-rendered) content using Selenium headless browser.  
+This project allows you to clone websites (HTML, CSS, JS, Images, Fonts, Videos) using Python. It supports both **static and dynamic (JavaScript-rendered) content** using Selenium headless browser. It is optimized for **Windows users**.
 
 ---
 
@@ -13,16 +13,19 @@ This project allows you to clone websites (HTML, CSS, JS, Images, Fonts, Videos)
 
 - Clone full website pages (HTML, CSS, JS, Images, Fonts, Videos)  
 - Support for dynamic JavaScript content using Selenium  
-- Recursive crawling of internal links  
+- Recursive crawling of internal links (configurable depth)  
 - CLI with colored output & progress bars  
 - Logging of all downloads and errors  
-- Configurable recursive depth for safe performance  
+- Windows-compatible paths and folder handling  
+- Safe for medium-sized websites (avoid huge sites like Facebook)  
+- Headless browser support to reduce CPU/GPU usage  
 
 ---
 
-## Installation
+## Installation (Windows)
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/<username>/<repo_name>.git](https://github.com/mahdi67436/mahdi-site-cloner.git
+```powershell
+git clone [https://github.com/<username>/<repo_name>.git](https://github.com/mahdi67436/mahdi-site-cloner.git)
+
